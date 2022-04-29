@@ -1,0 +1,2 @@
+# Web.DB
+Web for a hotel with connection to Oracle DatabaseActions database, deployment of REST services. Frontend made using HTML and CSS, together with JavaScript code that allows it to function correctly. Backend made in JAVA language with management in Maven.  If you want to test, you must change the connection to the database in the Javascript files, because the Oracle DatabaseActions service has expired.
